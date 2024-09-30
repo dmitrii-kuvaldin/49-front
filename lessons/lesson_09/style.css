@@ -49,3 +49,11 @@
 .dom-result {
   color: rgb(252, 125, 39);
 }
+
+li::before {
+  content: '⚡️  ';
+}
+
+ul {
+  padding-left: 10px;
+}
